@@ -5,27 +5,27 @@
     
     
       
-      <testcase classname="fastlane.lanes" name="0: update_fastlane" time="4.337705">
+      <testcase classname="fastlane.lanes" name="0: update_fastlane" time="2.989988">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.001045">
+      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.000974">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="2: increment_build_number" time="1.245347">
+      <testcase classname="fastlane.lanes" name="2: increment_build_number" time="1.098802">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="3: git_commit" time="4.020021">
+      <testcase classname="fastlane.lanes" name="3: git_commit" time="2.961114">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="4: push_to_git_remote" time="2.514206">
+      <testcase classname="fastlane.lanes" name="4: push_to_git_remote" time="2.674326">
         
       </testcase>
     
