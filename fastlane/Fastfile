@@ -27,4 +27,11 @@ platform :ios do
     git_commit
     push_to_git_remote
   end
+
+
+  lane :beta do
+  sync_code_signing(type: "appstore")
+  build_app(scheme: "Release",
+            include_bitcode: true)
+  end
 end

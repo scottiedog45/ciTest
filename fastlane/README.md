@@ -26,6 +26,11 @@ Description of what the lane does
 fastlane ios git_push_lane
 ```
 git push lane
+### ios beta
+```
+fastlane ios beta
+```
+
 
 ----
 
